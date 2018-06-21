@@ -6,19 +6,19 @@ description: 欢迎来到我的个人学习资源站~
 avatarTitle: cuteftp
 # 头像里面的描述
 avatarDesc: WEB前端开发/图像处理/机器学习
-url: "http://cuteftp.tech"
+url: "http://Gaomeifang"
 
 # Comment
 comment:
-    disqus: cuteftp
+    disqus:Gaomeifang
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    QQ:  28506267
-    github: cuteftp
+    QQ:  2075150091
+    github:Gaomeifang
     # twitter: 
-    mail: cuteftp@163.com
+    mail: 2075150091@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
